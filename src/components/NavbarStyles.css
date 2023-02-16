@@ -22,6 +22,11 @@
   padding: 0 1rem;
 }
 
+.nav-menu li:hover {
+  text-decoration: underline;
+  color: white;
+}
+
 .nav-menu a {
   font-size: 1.2rem;
   font-weight: 500;
